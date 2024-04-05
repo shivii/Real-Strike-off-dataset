@@ -1,7 +1,7 @@
 # Real-Strike-off-dataset
 This dataset has been manually curated from actual student notebooks.
 
-it has been used in for strike-off removal in Variable CycleGAN https://github.com/shivii/VCGAN.git. 
+It has been used in for strike-off removal in Variable CycleGAN https://github.com/shivii/VCGAN.git. 
 
 # Citation
 If you use this code for you research please cite our papers.
